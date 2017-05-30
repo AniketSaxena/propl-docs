@@ -1,0 +1,14 @@
+---
+layout: aniket
+title:  "Stock"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Stock
+
+Here we can manage our inventory stock. This shows us all types of stock like all , raw, semi finished. Finished, packaged.
+
+![alt text](/images/stock.png)
+
+We can add stock using the blue new button. We can also bulk add the stock using the bulk button next to new button.We can also manage our expenses by using the expense button .Vendor button allows us to add a new vendor.

@@ -1,0 +1,14 @@
+---
+layout: aniket
+title:  "Reports"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Reports
+
+Here you can generate detailed reports of your business and download them.To do so  you will have to set the type of report you want , meaning of orders of products of customers or of stocks. Then you will have to select the time meaning if you want report of today or a specific date or of  a specific date duration.
+
+![alt text](/images/reports.png)
+
+Once you have filled in the required details then you can download the report which will appear on the right side of the page.

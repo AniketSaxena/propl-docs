@@ -1,0 +1,19 @@
+---
+layout: aniket
+title:  "Account"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Account
+
+The account section in Propl contains details of your Propl account.
+
+![alt text](/images/account.png)
+
+The details include -
+Account name , company logo , brand name , brand display , username ( your registered mobile number ) , email , password . It also shows the billing information and the product categories.
+
+The account name , brand name , brand display , username and email cannot be changed by the user. To change them give us a call and we will change it for you.
+
+[Back to Account Settings](Account-Settings.html)

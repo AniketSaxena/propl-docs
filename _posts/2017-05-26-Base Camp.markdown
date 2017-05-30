@@ -1,0 +1,20 @@
+---
+layout: aniket
+title:  "Base Camp"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Base Camp
+
+Here we are given two options a factory mode and a shipping mode.
+
+![alt text](/images/base camp.png)
+
+In factory mode we can manage the creation of finished goods by using raw materials.This can be done by adding the items from the inventory and hitting the finalize button.
+
+![alt text](/images/factory mode.png)
+
+Similarly in Shipping mode we can manage the transfer of finished goods from one store to another in case you have multiple stores.To do this you will have to add the items to be shipped and the store in which they are to be shipped.
+
+![alt text](/images/shipping.png)

@@ -1,0 +1,83 @@
+ul{
+
+  list-style-type: none;
+}
+
+
+a:hover{
+  text-decoration: none;
+}
+
+
+
+.sidebar{
+  overflow-x: hidden;
+  height : 100%;
+  width: 300px;
+  position: fixed;
+  overflow-y: auto;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #330066;
+  float:left;
+}
+.sidebar h3{
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.75);
+  padding: 12px;
+}
+.sidebar h3 a{
+  color: white;
+}
+.sidebar ul{
+  margin: 70px auto auto 0;
+
+}
+.sidebar ul li a{
+  color: white;
+}
+
+.card{
+  background-color: #330066;
+  border: none;
+}
+
+.card a{
+  color:white;
+}
+.card a:hover{
+  color: white;
+}
+.card-block ul{
+  margin: auto 36px;
+}
+.mb-0{
+  font-size: 16px;
+}
+
+
+.card-header{
+  position: relative;
+  left: 10px;
+  background-color: #330066;
+  border: none;
+}
+
+
+
+.item-button {
+    padding: 8px 8px 8px 32px;
+    font-size: 16px;
+    color: #fff;
+    display: block;
+}
+
+.item-button:hover, .offcanvas a:focus{
+    color: #f1f1f1;
+.page-content{
+  float: right;
+}

@@ -1,0 +1,19 @@
+---
+layout: aniket
+title:  "Orders"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Orders
+
+Contains list of all orders.
+They are categorized as all , in store, delivery , pickup and multi.
+The orders have their details like if they are initiated , unpaid ,their cost and since when they were active.
+
+![alt text](/images/orders.png)
+
+We can add items to the orders and view their details. In order to view details click the “...” button.
+New orders can also be added using the blue new order button on the top right hand corner. When we add a new order we will have to select the type of order and then we will be taken to the make payment page.
+
+[View ordering process here](Ordering-Process.html)

@@ -1,0 +1,23 @@
+---
+layout: aniket
+title:  "Payments"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Payments
+
+The payment gateway information can be managed in payments tab. It is advised not to share any of the information given here with anyone.
+
+Instamojo is used as the payment gateway.You will need to create an account for instamojo separately.
+
+![alt text](/images/payments.png)
+
+To edit:-
+ press the Edit button or double click
+Enter new details.
+Press the enter button.
+
+NOTE: if you do not press the enter button and click somewhere else on the page the changes will not be made. Again the changes will only be finalized when clicking the save changes button.
+
+[Back to Account Settings](Account-Settings.html)

@@ -1,0 +1,12 @@
+---
+layout: aniket
+title:  "Customer"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Customer
+
+Here we can see all the customers in the database. We can also manually add customer by using the blue  add new button and then input the phone, name and email of the customer and then saving it.You can also bulk add the customers using csv data and then validating the same. You will need to save in order to confirm the changes.
+
+![alt text](/images/customers.png)

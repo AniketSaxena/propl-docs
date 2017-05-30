@@ -1,0 +1,14 @@
+---
+layout: aniket
+title:  "Offers"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Offers
+
+Here we can manage different offers. We can make new offers by clicking the blue new offer button on the top right corner.Here we can see the list of all the offers the active offers and the inactive ones.
+
+![alt text](/images/offers.png)
+
+The offers can have a minimum bill value the minimum number of orders the discount rate the active days and the categories to which the offer will be available.

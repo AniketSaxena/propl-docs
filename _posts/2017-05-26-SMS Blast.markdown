@@ -1,0 +1,19 @@
+---
+layout: aniket
+title:  "Account Settings"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# SMS Blast
+
+This feature allows us to send sms to multiple users instantly.
+
+![alt text](/images/sms blast.png)
+
+ You can upload your list of customers to send the message to or you can use the propl database to target the specific customers to whom the message is to be send.
+However in order to send message you will need sms credits.You can get them by calling us over the telephone and paying us the required amount for the sms credits.
+
+![alt text](/images/sms blast past campaigns.png)
+
+You can also view all the past campaigns you had done using this feature.

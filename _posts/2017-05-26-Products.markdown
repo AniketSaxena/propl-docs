@@ -1,0 +1,45 @@
+---
+layout: aniket
+title:  "Products"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Products
+
+Product used manage the products.
+Basic details of all the products like their name and their prices are shown.
+The green plus button is used to add the product to the kart.
+
+![alt text](/images/products.png)
+
+Search bar is provided to search a product.
+All button shows all products.
+Category search is also available and it is color coded meaning all products in a certain category will have the same color.
+
+The pencil button in products:-
+
+If you are the owner of your business then you will also see a pencil button next to the green plus button.
+This button is used to edit all the details of the product.
+The details include the name of the product , it’s price , tax , category , order , stores , variants and images.
+It also includes a graph showing product performance.
+ We can also add product components to manage the inventory better.
+
+
+How to add components?
+
+1.  Go to products
+
+2.  Click the pencil icon on a product.
+
+3.  Click on add component
+
+4.  Click on add item
+
+5.  Fill in the informaiton
+
+6.  Click save
+
+Note: The hide button is to show the components on the front end in case the business has a website.
+
+Bulk button is used to order items in bulk.

@@ -1,0 +1,12 @@
+---
+layout: aniket
+title:  "Calender"
+date:   2017-05-26 13:04:27 +0530
+categories: First
+---
+
+# Calendar
+
+Here we can see our monthly, weekly or daily calendar by selecting the type on the top left hand corner. Also you can navigate the calendar using the right and left arrow button on the top right hand corner. In case you wanna go back to current time you can click the today button.
+
+![alt text](/images/calendar.png)
