@@ -17,3 +17,30 @@ We can add items to the orders and view their details. In order to view details 
 New orders can also be added using the blue new order button on the top right hand corner. When we add a new order we will have to select the type of order and then we will be taken to the make payment page.
 
 [View ordering process here](Ordering-Process.html)
+
+
+#### Shortcuts: ####
+
+Propl has the shortcuts feature which allows the user to work faster and more efficiently. The list of shortcuts available on the Orders Page includes:
+
+SHIFT+?: This allows the user to access the shortcut list on the product page itself.
+
+Note: To exit the cheat sheet press SHIFT+? again or press ESC or press the X button on the top right corner.
+
+ALT+S: To complete the payment.
+
+ALT+P: For printing the bill.
+
+ALT+T: To print the token.
+
+ALT+A: To add items.
+
+ALT+X: To cancel the order.
+
+CTRL+S: To search products.
+
+ALT+O: To Proceed to the next order in case there is no next order then to create a new order.(It is "O" not zero "0")
+
+Below figure shows the shortcut list which can be seen by pressing SHIFT+?
+
+![alt text](/images/shortcutList.png)

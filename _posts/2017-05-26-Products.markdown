@@ -43,3 +43,28 @@ How to add components?
 Note: The hide button is to show the components on the front end in case the business has a website.
 
 Bulk button is used to order items in bulk.
+
+
+#### Shortcuts: ####
+
+
+Propl has the shortcuts feature which allows the user to work faster and more efficiently. The list of shortcuts available on the Products Page includes:
+
+SHIFT+?: This allows the user to access the shortcut list on the product page itself.
+
+Note: To exit the cheat sheet press SHIFT+? again or press ESC or press the X? button on the top right corner.
+
+ALT+S: To complete the payment.
+
+ALT+P: For printing the bill.
+
+ALT+T: To print the token.
+
+ALT+X: To cancel the order.
+
+ALT+O: To Proceed to the next order in case there is no next order then to create a new order.(It is "O" not zero "0")
+
+Below figure shows the shortcut list which can be seen by pressing SHIFT+?
+
+
+![alt text](/images/shortcutList.png)
